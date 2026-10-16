@@ -1,0 +1,6 @@
+{
+  "name": "Kuru Liquidity - Orderbook AMM & Yield Vaults",
+  "description": "Deep replica of Kuru.io liquidity platform featuring CLOB orderbook liquidity provisioning, volatility strategies (Spot, Curve, BidAsk), depth charts, yield vaults, and position management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
